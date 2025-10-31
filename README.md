@@ -53,4 +53,4 @@ During my internship at **Nexus_AI**, I explored key concepts and hands-on imple
 
 ---
 
->  _All work in this repository was completed during my internship at Nexus_AI as part of my journey into Machine Learning and Artificial Intelligence._
+>  _All work in this repository was completed during my internship at Nexus_AI as part of my journey into Machine Learning and Data Science._
