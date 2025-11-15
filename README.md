@@ -19,10 +19,12 @@ During my internship at **Nexus_AI**, I explored key concepts and hands-on imple
 
 ## Projects & Tasks
 
+| Project / Task | Description | Techniques Used |
 |----------------|--------------|-----------------|
-| **SuperMarket Sales Analysis** | Performed analysis on market sales data to identify top-selling products and visualize sales trends. | Pandas, Matplotlib, Seaborn |
-| **Sales Prediction – Task 2** | Built regression models to predict sales and compared performance to choose the best model. | Linear Regression, Decision Tree Regressor, Random Forest Regressor, EDA, Model Evaluation |
-| **Customer Churn Prediction – Task 3** | Developed a churn prediction model, evaluated with confusion matrix, and performed anomaly detection on misclassified samples. | Logistic Regression, Decision Tree Classifier, Random Forest Classifier, Confusion Matrix, Anomaly Detection |
+| SuperMarket Sales Analysis | Performed analysis on market sales data to identify top-selling products and visualize sales trends. | Pandas, Matplotlib, Seaborn |
+| Sales Prediction – Task 2 | Built regression models to predict sales and compared performance to choose the best model. | Linear Regression, Decision Tree Regressor, Random Forest Regressor, EDA, Model Evaluation |
+| Customer Churn Prediction – Task 3 | Developed a churn prediction model, evaluated with confusion matrix, and performed anomaly detection on misclassified samples. | Logistic Regression, Decision Tree Classifier, Random Forest Classifier, Confusion Matrix, Anomaly Detection |
+
 
 
 ---
